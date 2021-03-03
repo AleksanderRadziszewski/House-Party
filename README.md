@@ -16,3 +16,8 @@ This project will be updated consistently. I want to combine Django, Django Rest
 
 ![Zrzut ekranu 2021-03-2 o 13 15 44](https://user-images.githubusercontent.com/56914063/109647453-98280f00-7b59-11eb-90b9-7709f4630a55.png)
 
+# 2. Form functionalities 
+
+## a) Handlers - guest can pause change and votes change
+
+![Zrzut ekranu 2021-03-3 o 13 13 20](https://user-images.githubusercontent.com/56914063/109820553-66847600-7c35-11eb-8f99-bfb754067765.png)
