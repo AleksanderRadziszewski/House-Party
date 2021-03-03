@@ -16,6 +16,29 @@ export default class CreateRoomPage extends Component{
 
     constructor(props){
         super(props);
+        this.state = {
+            guestCanPause: true,
+            votesToSkip: this.defaultVotes,
+        };
+
+        this.handleRoomButtonPressed = this.handleRoomButtonPressed.bind(this);
+        this.handleVotesChange = this.handleVotesChange.bind(this);
+        this.handleGuestCanPauseChange = this.handleGuestCanPauseChange.bind(this);
+    }
+
+    handleVotesChange(e) {
+        this.setState({
+            votesToSkip: e.target.value, 
+        });
+    }
+    handleGuestCanPauseChange(e) {
+        this.setState({
+            guestCanPause:e.target.value === "true" ? true : false, 
+        });
+    }
+
+    handleRoomButtonPressed() {
+            console.log(this.state)
     }
 
     render(){
@@ -30,7 +53,10 @@ export default class CreateRoomPage extends Component{
                     <FormHelperText>
                         <div align = "center"> Guest Control of Playback State</div>
                     </FormHelperText>
-                    <RadioGroup row defaultValue = "true">
+                    <RadioGroup row 
+                    defaultValue = "true" 
+                    onChange = {this.handleGuestCanPauseChange}>
+
                     <FormControlLabel
                         value="true"
                         control = {<Radio color = "primary"/>}
@@ -48,7 +74,11 @@ export default class CreateRoomPage extends Component{
                 </FormControl>
             </Grid>
             <Grid item xs = {12} align = "center">
-                <TextField required = {true} type = "number" defaultValue = {this.defaultVotes}
+                <TextField 
+                required = {true} 
+                type = "number" 
+                defaultValue = {this.defaultVotes}
+                onChange = {this.handleVotesChange}
                 inputProps = {{
                     min:1,
                     style: {textAlign: "center"},
@@ -61,7 +91,7 @@ export default class CreateRoomPage extends Component{
             
             </Grid>
             <Grid item xs = {12} align = "center">
-                <Button color = "primary" variant = "contained">
+                <Button color = "primary" variant = "contained" onClick = {this.handleRoomButtonPressed}>
                     Create a Room
                 </Button>
             </Grid>
