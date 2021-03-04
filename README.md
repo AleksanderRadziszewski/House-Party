@@ -21,3 +21,7 @@ This project will be updated consistently. I want to combine Django, Django Rest
 ## a) Handlers - guest can pause change and votes change
 
 ![Zrzut ekranu 2021-03-3 o 13 13 20](https://user-images.githubusercontent.com/56914063/109820553-66847600-7c35-11eb-8f99-bfb754067765.png)
+
+## b) Creating Room object by form
+
+![Zrzut ekranu 2021-03-4 o 14 41 14](https://user-images.githubusercontent.com/56914063/109973151-55e90400-7cf8-11eb-90f7-11c23125b6e1.png)
