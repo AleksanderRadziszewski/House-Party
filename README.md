@@ -25,3 +25,7 @@ This project will be updated consistently. I want to combine Django, Django Rest
 ## b) Creating Room object by form
 
 ![Zrzut ekranu 2021-03-4 o 14 41 14](https://user-images.githubusercontent.com/56914063/109973151-55e90400-7cf8-11eb-90f7-11c23125b6e1.png)
+
+## c) Calling API endpoints from React
+
+![Zrzut ekranu 2021-03-5 o 19 44 01](https://user-images.githubusercontent.com/56914063/110159835-7d6cc900-7deb-11eb-8ba7-e58e2cdca424.png)
