@@ -28,4 +28,30 @@ This project will be updated consistently. I want to combine Django, Django Rest
 
 ## c) Calling API endpoints from React
 
+### 1. Correct request
+
 ![Zrzut ekranu 2021-03-5 o 19 44 01](https://user-images.githubusercontent.com/56914063/110159835-7d6cc900-7deb-11eb-8ba7-e58e2cdca424.png)
+
+### 2. Bad request, invalid Room code parameter
+
+![Zrzut ekranu 2021-03-7 o 12 52 17](https://user-images.githubusercontent.com/56914063/110238855-1e6e9780-7f44-11eb-9fe4-abfe4d09fbd7.png)
+
+### 3. Bad request, Room code parameter not found in request
+
+![Zrzut ekranu 2021-03-7 o 12 58 05](https://user-images.githubusercontent.com/56914063/110238973-c8e6ba80-7f44-11eb-9a81-7080faa6380a.png)
+
+### 4. Request ok, Room code parameter exist and is founded
+
+I pick the first one
+
+![Zrzut ekranu 2021-03-7 o 12 59 25](https://user-images.githubusercontent.com/56914063/110239037-2da21500-7f45-11eb-9e43-ed90bb085599.png)
+
+Result
+
+![Zrzut ekranu 2021-03-7 o 12 59 25](https://user-images.githubusercontent.com/56914063/110239115-9b4e4100-7f45-11eb-9a4b-7be3ea6b6e1b.png)
+
+
+
+
+
+
