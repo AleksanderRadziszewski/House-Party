@@ -46,9 +46,14 @@ I pick the first one
 
 ![Zrzut ekranu 2021-03-7 o 12 59 25](https://user-images.githubusercontent.com/56914063/110239037-2da21500-7f45-11eb-9e43-ed90bb085599.png)
 
-Result
+Result, is_host = False
 
 ![Zrzut ekranu 2021-03-7 o 13 07 31](https://user-images.githubusercontent.com/56914063/110239217-27f8ff00-7f46-11eb-80d4-ee6bbfb25436.png)
+
+Result, is_host = True
+
+![Zrzut ekranu 2021-03-7 o 13 12 12](https://user-images.githubusercontent.com/56914063/110239360-d604a900-7f46-11eb-84c3-8281f3481be3.png)
+
 
 
 
