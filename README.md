@@ -30,7 +30,7 @@ This project will be updated consistently. I want to combine Django, Django Rest
 
 ### 1. Correct request
 
-![Zrzut ekranu 2021-03-5 o 19 44 01](https://user-images.githubusercontent.com/56914063/110159835-7d6cc900-7deb-11eb-8ba7-e58e2cdca424.png)
+![Zrzut ekranu 2021-03-8 o 14 15 14](https://user-images.githubusercontent.com/56914063/110327731-a32be500-801a-11eb-8c02-11c036d39bb1.png)
 
 ### 2. Bad request, invalid Room code parameter
 
