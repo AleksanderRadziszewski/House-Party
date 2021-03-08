@@ -54,6 +54,15 @@ Result, is_host = True
 
 ![Zrzut ekranu 2021-03-7 o 13 12 12](https://user-images.githubusercontent.com/56914063/110239360-d604a900-7f46-11eb-84c3-8281f3481be3.png)
 
+We take room with code KFFJXZ and change some settings.
+
+![Zrzut ekranu 2021-03-8 o 14 32 00](https://user-images.githubusercontent.com/56914063/110328285-74623e80-801b-11eb-8187-a166edc7c623.png)
+
+After pushing the button "Create room"
+
+![Zrzut ekranu 2021-03-8 o 14 32 10](https://user-images.githubusercontent.com/56914063/110328309-7c21e300-801b-11eb-91a9-7838ab0dce56.png)
+ 
+
 
 
 
