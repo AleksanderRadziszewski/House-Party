@@ -73,7 +73,13 @@ After pushing the button "Create room"
 
 ![Zrzut ekranu 2021-03-10 o 14 20 08](https://user-images.githubusercontent.com/56914063/110636250-56781380-81ac-11eb-8536-8c9bc9e96a78.png)
 
+## 3. Enter Room button handler, valid code
 
+![Zrzut ekranu 2021-03-12 o 12 38 35](https://user-images.githubusercontent.com/56914063/110936213-d333fa80-8330-11eb-86f4-e7d9ee3b8146.png)
+
+## 4. Enter Room button handler, invalid code
+
+![Zrzut ekranu 2021-03-12 o 12 39 25](https://user-images.githubusercontent.com/56914063/110936241-dd55f900-8330-11eb-992b-74ae6aed32e9.png)
 
 
 
