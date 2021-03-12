@@ -63,8 +63,15 @@ After pushing the button "Create room"
 ![Zrzut ekranu 2021-03-8 o 14 32 10](https://user-images.githubusercontent.com/56914063/110328309-7c21e300-801b-11eb-91a9-7838ab0dce56.png)
  
 
+ ## d) Join Room Panel
 
+### 1. Before focus 
 
+ ![Zrzut ekranu 2021-03-10 o 14 19 59](https://user-images.githubusercontent.com/56914063/110636191-43654380-81ac-11eb-9799-7f7075092e83.png)
+
+### 2. After focus
+
+![Zrzut ekranu 2021-03-10 o 14 20 08](https://user-images.githubusercontent.com/56914063/110636250-56781380-81ac-11eb-8536-8c9bc9e96a78.png)
 
 
 
